@@ -28,3 +28,4 @@ GPIOA_ODR                  EQU GPIOA_BASE + GPIOA_ODR_OFFSET
 
 MODER5_OUT                 EQU 1<<10
 LED_ON                       EQU 1<<5
+GPIOA_EN                     EQ 1<<0
